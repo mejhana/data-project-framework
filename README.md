@@ -9,5 +9,3 @@ The dataset used for applying this framework is the [Graduate Admission 2 datase
 
 ### Using the Repo
 The Repository's directory structure can be used to guide your own data science and machine learning projects.  
-
-
