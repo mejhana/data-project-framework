@@ -7,5 +7,13 @@ This repository is largely inspired from [Abhishek Thakur's ML Framework Repo](h
 ### Dataset Used
 The dataset used for applying this framework is the [Graduate Admission 2 dataset](https://www.kaggle.com/mohansacharya/graduate-admissions) available on Kaggle.
 
+### What each directory means
+* dataset : All raw and cleaned data is stored here
+* notebooks : Contains Jupyter notebooks for EDA, Data Storytelling etc.
+* src : Contains Python scripts used predominantly for predictive modelling
+* utils : Contains utility scripts to aid in faster analysis
+* models : All trained models are stored here (as .pkl files)
+* output : Contains output files (submissions, images, reports etc.)
+
 ### Using the Repo
 The Repository's directory structure can be used to guide your own data science and machine learning projects.  
